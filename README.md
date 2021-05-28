@@ -174,6 +174,16 @@
       height="40"
     />
   </a>
+    <a href="https://isocpp.org/" target="_blank">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/c.svg"
+      alt="c++"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  
 <center>
   
   ![Lucaspalomodevelop's Github Stats](https://github-readme-stats.vercel.app/api?username=lucaspalomodevelop&count_private=true&show_icons=true&theme=radical)
