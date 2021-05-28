@@ -174,6 +174,10 @@
       height="40"
     />
   </a>
-
+<center>
+  
   ![Lucaspalomodevelop's Github Stats](https://github-readme-stats.vercel.app/api?username=lucaspalomodevelop&count_private=true&show_icons=true&theme=radical)
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspalomodevelop&theme=radical)
+  
+ </center>
 </p>
