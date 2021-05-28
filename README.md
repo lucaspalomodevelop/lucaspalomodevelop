@@ -2,7 +2,7 @@
 <h3 align="center">I'm doing an education as software developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
@@ -175,11 +175,9 @@
     />
   </a>
   
-  
-<center>
+ 
   
   ![Lucaspalomodevelop's Github Stats](https://github-readme-stats.vercel.app/api?username=lucaspalomodevelop&count_private=true&show_icons=true&theme=radical)
   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspalomodevelop&theme=radical)
   
- </center>
 </p>
