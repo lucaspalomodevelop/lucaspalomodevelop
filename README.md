@@ -102,7 +102,7 @@
   </a>
      <a href="https://tailwindcss.com/" target="_blank">
     <img
-      src=" https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/tailwindcss/tailwindcss-plain.svg"
       alt="tailwind"
       width="40"
       height="40"
