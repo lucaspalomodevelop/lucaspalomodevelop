@@ -100,7 +100,15 @@
       height="40"
     />
   </a>
-  
+     <a href="https://tailwindcss.com/" target="_blank">
+    <img
+      src=" https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+      alt="tailwind"
+      width="40"
+      height="40"
+    />
+  </a>
+   
   <a href="https://www.docker.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
