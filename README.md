@@ -203,6 +203,6 @@
   <p align="center">
   
   ![Lucaspalomodevelop's Github Stats](https://github-readme-stats.vercel.app/api?username=lucaspalomodevelop&count_private=true&show_icons=true&theme=radical)
-   ![Lucaspalomodevelop's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucaspalomodevelop&show_icons=true&theme=radical)
+  ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucaspalomodevelop)]
   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspalomodevelop&theme=radical)
   </p>
