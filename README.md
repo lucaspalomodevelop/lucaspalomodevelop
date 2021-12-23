@@ -207,6 +207,8 @@
    
   ![Lucaspalomodevelop's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucaspalomodevelop&show_icons=true&theme=radical) 
    
+   [![wakatime](https://wakatime.com/badge/user/4af6bc3c-a9c8-4b6a-bfa0-6718827c0523.svg)](https://wakatime.com/@4af6bc3c-a9c8-4b6a-bfa0-6718827c0523)
+   
 
    
 
