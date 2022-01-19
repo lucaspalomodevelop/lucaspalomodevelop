@@ -4,14 +4,14 @@
 <h3 align="left">Languages:</h3>
 <p align="center">
 
-   <a href="https://isocpp.org/" target="_blank">
+   <!--<a href="https://isocpp.org/" target="_blank">
     <img
       src="https://cdn.worldvectorlogo.com/logos/c.svg"
       alt="c++"
       width="40"
       height="40"
     />
-  </a>
+  </a>-->
   <a href="https://www.w3schools.com/cs/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
@@ -36,6 +36,16 @@
       height="40"
     />
   </a>
+     <a
+    href="https://www.typescriptlang.org/"
+    target="_blank"
+  >
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -133,15 +143,14 @@
       height="40"
     />
   </a>
-  
-  <a href="https://www.linux.org/" target="_blank">
+  <!--<a href="https://www.linux.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
       alt="linux"
       width="40"
       height="40"
     />
-  </a>
+  </a>-->
   <!--<a href="https://postman.com" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
@@ -166,15 +175,14 @@
       height="40"
     />
   </a>
-
-  <a href="https://unity.com/" target="_blank">
+  <!--<a href="https://unity.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
       alt="unity"
       width="40"
       height="40"
     />
-  </a>
+  </a>-->
 </p>
   <h3 align="left">Databases:</h3>
 <p align="center">
@@ -204,6 +212,27 @@
     />
   </a>
 
+  
+  </p>
+  
+  <h3 align="left"> Operating Systems:</h3>
+  <p align="center">
+      <a href="https://ubuntu.com/" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"
+      alt="Ubuntu"
+      width="40"
+      height="40"
+    />
+  </a>
+   <a href="https://www.microsoft.com/de-de/windows" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg"
+      alt="Windows"
+      width="40"
+      height="40"
+    />
+  </a>
   
   </p>
   
