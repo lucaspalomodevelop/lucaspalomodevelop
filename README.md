@@ -100,14 +100,14 @@
       height="40"
     />
   </a>
-     <a href="https://tailwindcss.com/" target="_blank">
+     <!--<a href="https://tailwindcss.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/tailwindcss/tailwindcss-plain.svg"
       alt="tailwind"
       width="40"
       height="40"
     />
-  </a>
+  </a>-->
    
   <a href="https://www.docker.com/" target="_blank">
     <img
@@ -142,14 +142,14 @@
       height="40"
     />
   </a>
-  <a href="https://postman.com" target="_blank">
+  <!--<a href="https://postman.com" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
       alt="postman"
       width="40"
       height="40"
     />
-  </a>
+  </a>-->
 
   <a href="https://reactjs.org/" target="_blank">
     <img
@@ -159,6 +159,15 @@
       height="40"
     />
   </a>
+    <a href="https://angular.io/" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"
+      alt="Angular"
+      width="40"
+      height="40"
+    />
+  </a>
+
   <a href="https://unity.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
