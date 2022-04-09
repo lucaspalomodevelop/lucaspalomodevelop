@@ -90,7 +90,7 @@
   
    <a href="https://www.ansible.com/" target="_blank">
     <img
-      src=" https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg"
       alt="ansible"
       width="40"
       height="40"
