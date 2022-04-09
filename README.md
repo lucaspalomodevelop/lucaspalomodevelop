@@ -86,11 +86,21 @@
 
 <h3 align="left">Tools:</h3>
 <p align="center">
+   
+  
+   <a href="https://www.ansible.com/" target="_blank">
+    <img
+      src=" https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg"
+      alt="ansible"
+      width="40"
+      height="40"
+    />
+  </a>
       <a href="https://www.latex-project.org/" target="_blank">
     <img
      style="background-color: white;"   
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg"
-      alt="mongodb"
+      alt="latex"
       width="40"
       height="40"
     />
