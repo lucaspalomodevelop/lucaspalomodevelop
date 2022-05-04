@@ -259,11 +259,11 @@
  <h3 align="left">Stats:</h3>
   <p align="center">
    
-   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspalomodevelop&theme=radical&layout=compact)
+   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspalomodevelop&layout=compact)
   
-  ![Lucaspalomodevelop's Github Stats](https://github-readme-stats.vercel.app/api?username=lucaspalomodevelop&count_private=true&show_icons=true&theme=radical&layout=compact)
+  ![Lucaspalomodevelop's Github Stats](https://github-readme-stats.vercel.app/api?username=lucaspalomodevelop&count_private=true&show_icons=true&layout=compact)
    
-  ![Lucaspalomodevelop's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucaspalomodevelop&show_icons=true&theme=radical&layout=compact) 
+  ![Lucaspalomodevelop's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucaspalomodevelop&show_icons=true&layout=compact) 
    
    [![wakatime](https://wakatime.com/badge/user/4af6bc3c-a9c8-4b6a-bfa0-6718827c0523.svg)](https://wakatime.com/@4af6bc3c-a9c8-4b6a-bfa0-6718827c0523)
    
