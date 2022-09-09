@@ -1,5 +1,5 @@
 <h1 align="center">Hi there I'm Lucas - aka lucaspalomodevelop 👋</h1>
-<h3 align="center">I'm doing an education as software developer</h3>
+<h3 align="center">software developer</h3>
 
 <h3 align="left">Languages:</h3>
 <p align="center">
