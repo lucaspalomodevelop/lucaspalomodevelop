@@ -21,7 +21,6 @@ i'm a software developer
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 [![](https://visitcount.itsvg.in/api?id=lucaspalomodevelop&icon=0&color=0)](https://visitcount.itsvg.in)
 [![](https://wakatime.com/badge/user/4af6bc3c-a9c8-4b6a-bfa0-6718827c0523.svg)](https://wakatime.com/@4af6bc3c-a9c8-4b6a-bfa0-6718827c0523)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
