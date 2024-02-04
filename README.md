@@ -15,7 +15,7 @@ i'm a software developer
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lucaspalomodevelop&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspalomodevelop&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 # 📊 Wakatime Stats:
-![](https://github-readme-stats.vercel.app/api/wakatime?username=lucaspalomodevelop&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=lucasdevelop&theme=dark&hide_border=false&layout=compact)
 <br/>
 
 ### ✍️ Random Dev Quote
