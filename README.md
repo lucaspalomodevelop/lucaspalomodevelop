@@ -1,6 +1,6 @@
 <div align="center">
 
-# Lucas Palomo
+# Lucas Palomo Lauterbach
 
 **B.Sc. Computer Science Student · Systems, Compilers & Infrastructure**
 
